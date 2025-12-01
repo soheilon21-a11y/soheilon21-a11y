@@ -12,6 +12,9 @@ I'm currently working on Building an Agent-Driven Machine Learning portfolio usi
 * **API Development**
 * **Model Deployment**
 * **Uvicorn**
+* **Data Preprocessing**
+* **Model Evaluation**
+* **Serialization (Joblib)**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soheilon21-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=soheilon21-a11y&theme=dark&hide_border=false)<br/>
