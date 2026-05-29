@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Soheil, I'm currently working on Building an Agent-Driven Machine Learning portfolio using Python and Scikit-learn.<br><br>I'm looking to collaborate on Data Science and Classification challenges, especially in Legal Tech or FinTech.<br><br>I'm currently focused on AI workflows, local LLM experimentation, FastAPI backends, and practical automation systems.
+Hi, I'm Soheil, I'm currently working on Building practical AI and automation projects using Python, FastAPI, local LLMs, and applied machine learning.
+.<br><br>I'm looking to collaborate on Data Science and Classification challenges, especially in Legal Tech or FinTech.<br><br>I'm currently focused on AI workflows, local LLM experimentation, FastAPI backends, and practical automation systems.
 .<br><br>Ask me about AI Agent Development, Python, or strategic career transitions from law to tech .<br><br>Fun fact I have 18 years of legal experience and once managed a large-scale fruit garden.
 
 
