@@ -1,8 +1,26 @@
-# 💫 Hi, I'm Soheil
-I'm currently working on Building practical AI and automation projects using Python, FastAPI, local LLMs, and applied machine learning
-.<br><br>I'm looking to collaborate on Data Science and Classification challenges, especially in Legal Tech or FinTech.<br><br>Currently focused on AI workflows, local LLM experimentation, FastAPI backends, and practical automation systems
-.<br><br>Ask me about AI Agent Development, Python, or strategic career transitions from law to tech .<br><br>Background in legal work, operational management, and real-world process coordination, now transitioning into applied AI and automation engineering
-.
+# Hi, I'm Soheil 👋
+I'm a legal professional transitioning into Applied AI, 
+focusing on the intersection of Law and Technology.
+
+🔭 **Currently building:** Practical AI and automation tools 
+using Python, FastAPI, and Local LLMs — with a focus on LegalTech use cases.
+
+🌱 **Currently learning:** Advanced LLM workflows, RAG systems, 
+and AI agent architectures for legal applications.
+
+👯 **Looking to collaborate on:** LegalTech projects, especially 
+contract analysis, legal document automation, and AI for legal research.
+
+💬 **Ask me about:** AI agent development, Python automation, 
+LegalTech, or career transitions from Law to Tech.
+
+📫 **How to reach me:** [https://www.linkedin.com/in/soheil-onsori-72296113b]
+
+---
+**Background:** Years of experience in legal practice and 
+operational management, now applying that domain knowledge 
+to build AI tools that solve real legal problems.
+
 
 
 ## 🌐 Socials:
