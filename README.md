@@ -9,7 +9,7 @@ A privacy-first LegalTech application for contract analysis, GDPR readiness, EU 
 
 ## 🚀 Featured Project
 
-### Legal Clause Analyzer v1.0
+### **Legal Clause Analyzer v1.0**
 
 A privacy-first LegalTech application for contract analysis using Local LLMs and Retrieval-Augmented Generation (RAG).
 
@@ -38,7 +38,10 @@ contract analysis, legal document automation, and AI for legal research.
 💬 **Ask me about:** AI agent development, Python automation, 
 LegalTech, or career transitions from Law to Tech.
 
-📫 **How to reach me:** [https://www.linkedin.com/in/soheil-onsori-72296113b]
+📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/soheil-onsori-72296113b
+- Email: soheilon21@gmail.com
 
 ---
 **Background:** Years of experience in legal practice and operational management, now leveraging that domain knowledge to build practical AI solutions for LegalTech.
