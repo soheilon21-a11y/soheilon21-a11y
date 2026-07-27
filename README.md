@@ -41,7 +41,7 @@ LegalTech, or career transitions from Law to Tech.
 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/soheil-onsori-72296113b
-- Email: soheilon21@gmail.com
+- Email: soheil.on21@gmail.com
 
 ---
 **Background:** Years of experience in legal practice and operational management, now leveraging that domain knowledge to build practical AI solutions for LegalTech.
