@@ -7,6 +7,28 @@ Legal Clause Analyzer v1.0
 
 A privacy-first LegalTech application for contract analysis, GDPR readiness, EU AI Act assessment, and local LLM-powered legal reporting.
 
+## 🚀 Featured Project
+
+### Legal Clause Analyzer v1.0
+
+A privacy-first LegalTech application for contract analysis using Local LLMs and Retrieval-Augmented Generation (RAG).
+
+**Key Features**
+
+- ✅ GDPR Readiness Assessment
+- ✅ EU AI Act Compliance Assessment
+- ✅ Local LLM Integration (Ollama + Llama 3)
+- ✅ Retrieval-Augmented Generation (RAG)
+- ✅ Professional PDF Reports
+- ✅ Docker Support
+- ✅ GitHub Actions CI
+
+🔗 Repository:
+https://github.com/soheilon21-a11y/Legal-Clause-Analyzer
+
+🔗 Latest Release:
+https://github.com/soheilon21-a11y/Legal-Clause-Analyzer/releases/tag/v1.0.0
+
 🌱 **Currently learning:** Advanced LLM workflows, RAG systems, 
 and AI agent architectures for legal applications.
 
