@@ -1,9 +1,10 @@
 # Hi, I'm Soheil 👋
-I'm a legal professional transitioning into Applied AI, 
-focusing on the intersection of Law and Technology.
+I'm a legal professional building AI-powered LegalTech solutions with Python, FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).
 
 🔭 Recently released:
+
 Legal Clause Analyzer v1.0
+
 A privacy-first LegalTech application for contract analysis, GDPR readiness, EU AI Act assessment, and local LLM-powered legal reporting.
 
 🌱 **Currently learning:** Advanced LLM workflows, RAG systems, 
@@ -18,9 +19,7 @@ LegalTech, or career transitions from Law to Tech.
 📫 **How to reach me:** [https://www.linkedin.com/in/soheil-onsori-72296113b]
 
 ---
-**Background:** Years of experience in legal practice and 
-operational management, now applying that domain knowledge 
-to build AI tools that solve real legal problems.
+**Background:** Years of experience in legal practice and operational management, now leveraging that domain knowledge to build practical AI solutions for LegalTech.
 
 
 
