@@ -2,8 +2,11 @@
 I'm a legal professional transitioning into Applied AI, 
 focusing on the intersection of Law and Technology.
 
-🔭 **Currently building:** Practical AI and automation tools 
-using Python, FastAPI, and Local LLMs — with a focus on LegalTech use cases.
+🔭 Recently released:
+
+Legal Clause Analyzer v1.0
+
+A privacy-first LegalTech application for contract analysis, GDPR readiness, EU AI Act assessment, and local LLM-powered legal reporting.
 
 🌱 **Currently learning:** Advanced LLM workflows, RAG systems, 
 and AI agent architectures for legal applications.
