@@ -51,53 +51,64 @@ LegalTech, or career transitions from Law to Tech.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soheil-onsori-72296113b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soheil.on21@gmail.com) 
 
-Tech Stack Markdown (select all text below and copy)
 ## Recent Project: Legal Clause Analyzer
-A privacy-first LegalTech application that analyzes contracts locally — combining rule-based legal analysis with a local AI / RAG workflow, without sending documents to the cloud.
-![Legal Clause Detection](https://img.shields.io/badge/Legal_Clause_Detection-1A237E?style=for-the-badge)
-![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-B71C1C?style=for-the-badge)
-![GDPR Readiness](https://img.shields.io/badge/GDPR_Readiness-003399?style=for-the-badge)
-![EU AI Act Readiness](https://img.shields.io/badge/EU_AI_Act_Readiness-003399?style=for-the-badge)
-![AI-Assisted Redlining](https://img.shields.io/badge/AI--Assisted_Redlining-6A1B9A?style=for-the-badge)
-![Rule-Based Analysis](https://img.shields.io/badge/Rule--Based_Analysis-37474F?style=for-the-badge)
-![Local LLM Workflow](https://img.shields.io/badge/Local_LLM_Workflow-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Sentence--Transformers](https://img.shields.io/badge/Sentence--Transformers-FFB300?style=for-the-badge)
-![PDF and DOCX Analysis](https://img.shields.io/badge/PDF_%26_DOCX_Analysis-B23A2E?style=for-the-badge)
-![PDF Report Generation](https://img.shields.io/badge/PDF_Report_Generation-455A64?style=for-the-badge)
+
+A privacy-first LegalTech application that analyzes contracts locally, combining rule-based legal analysis with a local AI / RAG workflow, without sending documents to the cloud.
+
+![Legal Clause Detection](https://img.shields.io/badge/Legal_Clause_Detection-343A40?style=for-the-badge)
+![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-343A40?style=for-the-badge)
+![GDPR Readiness](https://img.shields.io/badge/GDPR_Readiness-343A40?style=for-the-badge)
+![EU AI Act Readiness](https://img.shields.io/badge/EU_AI_Act_Readiness-343A40?style=for-the-badge)
+![AI-Assisted Redlining](https://img.shields.io/badge/AI--Assisted_Redlining-343A40?style=for-the-badge)
+![Rule-Based Analysis](https://img.shields.io/badge/Rule--Based_Analysis-343A40?style=for-the-badge)
+![Local LLM Workflow](https://img.shields.io/badge/Local_LLM_Workflow-343A40?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-343A40?style=for-the-badge)
+![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-343A40?style=for-the-badge)
+![PDF and DOCX Analysis](https://img.shields.io/badge/PDF_%26_DOCX_Analysis-343A40?style=for-the-badge)
+![PDF Report Generation](https://img.shields.io/badge/PDF_Report_Generation-343A40?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions CI](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)--
+![GitHub Actions CI](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ## Tech Stack
+
 ### Core Language & Environment
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2E2E2E?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-343A40?style=for-the-badge)
+
 ### AI / LLM / RAG
+
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A0DAD?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-343A40?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-343A40?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-343A40?style=for-the-badge)
+
 ### Data Processing
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-B23A2E?style=for-the-badge)
-![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-2E8B57?style=for-the-badge)
-![Joblib](https://img.shields.io/badge/Serialization_(Joblib)-455A64?style=for-the-badge)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-343A40?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-343A40?style=for-the-badge)
+![Joblib](https://img.shields.io/badge/Serialization_(Joblib)-343A40?style=for-the-badge)
+
 ### MLOps & Deployment
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF9900?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-7B1FA2?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-343A40?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-343A40?style=for-the-badge)
+
 ### Infrastructure / DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![API Development](https://img.shields.io/badge/API_Development-00695C?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white
+![REST API](https://img.shields.io/badge/REST_API-343A40?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API_Development-343A40?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=soheilon21-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=soheilon21-a11y&theme=dark&hide_border=false)<br/>
