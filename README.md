@@ -66,6 +66,8 @@ A privacy-first LegalTech application that analyzes contracts locally, combining
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-343A40?style=for-the-badge)
 ![PDF and DOCX Analysis](https://img.shields.io/badge/PDF_%26_DOCX_Analysis-343A40?style=for-the-badge)
 ![PDF Report Generation](https://img.shields.io/badge/PDF_Report_Generation-343A40?style=for-the-badge)
+![Code Optimization](https://img.shields.io/badge/Code_Optimization-343A40?style=for-the-badge)
+![Cost-Aware Model Selection](https://img.shields.io/badge/Cost--Aware_Model_Selection-343A40?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions CI](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
