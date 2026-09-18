@@ -7,7 +7,27 @@ Legal Clause Analyzer v1.0
 
 A privacy-first LegalTech application for contract analysis, GDPR readiness, EU AI Act assessment, and local LLM-powered legal reporting.
 
-## 🚀 Featured Project
+## 🚀 My Products
+
+### 🧠 Post-Meeting Legal Analyzer
+
+A privacy-first LegalTech application for analyzing post-meeting legal 
+transcripts. Extracts obligations, risks, and action items with verbatim 
+citations from both the meeting transcript AND the indexed reference 
+contract. AI-proposed redlines require explicit attorney approve/reject, 
+and every action is stamped into a tamper-evident, hash-chained audit trail.
+
+**Key Features**
+
+- 🤖 Local LLM (Ollama + llama3) + nomic-embed-text embeddings
+- 🔎 RAG with Qdrant + token/context optimizer
+- 🔐 No tokens or logins for daily use — attributed to the matter owner
+- 📄 Professional PDF reports (analysis + redline review)
+- 🛡️ Tamper-evident, hash-chained audit trail
+- 🧪 284 tests passing
+
+🔗 Repository:
+https://github.com/soheilon21-a11y/post-meeting-legal-analyzer
 
 ### **Legal Clause Analyzer v1.0**
 
