@@ -3,9 +3,7 @@ I'm a legal professional building AI-powered LegalTech solutions with Python, Fa
 
 🔭 Recently released:
 
-Legal Clause Analyzer v1.0
-
-A privacy-first LegalTech application for contract analysis, GDPR readiness, EU AI Act assessment, and local LLM-powered legal reporting.
+Post-Meeting Legal Analyzer & Legal Clause Analyzer — both v1.0+
 
 ## 🚀 My Products
 
@@ -70,27 +68,6 @@ LegalTech, or career transitions from Law to Tech.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soheil-onsori-72296113b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soheil.on21@gmail.com) 
-
-## Recent Project: Legal Clause Analyzer
-
-A privacy-first LegalTech application that analyzes contracts locally, combining rule-based legal analysis with a local AI / RAG workflow, without sending documents to the cloud.
-
-![Legal Clause Detection](https://img.shields.io/badge/Legal_Clause_Detection-343A40?style=for-the-badge)
-![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-343A40?style=for-the-badge)
-![GDPR Readiness](https://img.shields.io/badge/GDPR_Readiness-343A40?style=for-the-badge)
-![EU AI Act Readiness](https://img.shields.io/badge/EU_AI_Act_Readiness-343A40?style=for-the-badge)
-![AI-Assisted Redlining](https://img.shields.io/badge/AI--Assisted_Redlining-343A40?style=for-the-badge)
-![Rule-Based Analysis](https://img.shields.io/badge/Rule--Based_Analysis-343A40?style=for-the-badge)
-![Local LLM Workflow](https://img.shields.io/badge/Local_LLM_Workflow-343A40?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-343A40?style=for-the-badge)
-![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-343A40?style=for-the-badge)
-![PDF and DOCX Analysis](https://img.shields.io/badge/PDF_%26_DOCX_Analysis-343A40?style=for-the-badge)
-![PDF Report Generation](https://img.shields.io/badge/PDF_Report_Generation-343A40?style=for-the-badge)
-![Code Optimization](https://img.shields.io/badge/Code_Optimization-343A40?style=for-the-badge)
-![Cost-Aware Model Selection](https://img.shields.io/badge/Cost--Aware_Model_Selection-343A40?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions CI](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Tech Stack
 
