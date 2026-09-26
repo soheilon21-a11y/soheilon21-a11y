@@ -12,7 +12,7 @@ Post-Meeting Legal Analyzer & Legal Clause Analyzer — both v1.0+
 A privacy-first LegalTech application for analyzing post-meeting legal 
 transcripts. Extracts obligations, risks, and action items with verbatim 
 citations from both the meeting transcript AND the indexed reference 
-contract. AI-proposed redlines require explicit attorney approve/reject, 
+contract. AI-proposed redlines require explicit human approve/reject, 
 and every action is stamped into a tamper-evident, hash-chained audit trail.
 
 **Key Features**
@@ -67,7 +67,7 @@ LegalTech, or career transitions from Law to Tech.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soheil-onsori-72296113b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soheil.on21@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soheil-onsori-72296113b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soheil.on21@gmail.com) 
 
 ## Tech Stack
 
@@ -81,7 +81,7 @@ LegalTech, or career transitions from Law to Tech.
 ### AI / LLM / RAG
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-343A40?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-343A40?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-343A40?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-343A40?style=for-the-badge)
