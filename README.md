@@ -22,7 +22,7 @@ and every action is stamped into a tamper-evident, hash-chained audit trail.
 - 🔐 No tokens or logins for daily use — attributed to the matter owner
 - 📄 Professional PDF reports (analysis + redline review)
 - 🛡️ Tamper-evident, hash-chained audit trail
-- 🧪 284 tests passing
+- 🧪 287 tests passing, CI-verified on GitHub Actions
 
 🔗 Repository:
 https://github.com/soheilon21-a11y/post-meeting-legal-analyzer
