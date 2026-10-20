@@ -1,11 +1,30 @@
 # Hi, I'm Soheil 👋
-I'm a legal professional building AI-powered LegalTech solutions with Python, FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).
+I'm a law graduate (LL.B) building privacy-first LegalTech with Python, FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).
 
-🔭 Recently released:
+🔭 Recently shipped:
 
-Post-Meeting Legal Analyzer & Legal Clause Analyzer — both v1.0+
+three privacy-first legal AI tools — live meeting companion, post-meeting analyzer, clause analyzer — all v1.0+, all local-first, all MIT.
 
 ## 🚀 My Products
+
+###🎙️ Live Meeting Legal Companion (Niyosh) — NEW
+
+A local-first live meeting companion for legal professionals: real-time chunked transcription (faster-whisper), automatic observations during the meeting, batch speaker diarization (SpeechBrain ECAPA-TDNN), local Piper TTS read-aloud in EN + DE, and PDF export — fully offline in Docker with Ollama (Llama 3). Zero external requests.
+
+Key Features
+
+- 🎧 Live chunked transcription + auto-observations during the meeting
+- 🗣️ Batch speaker diarization (SpeechBrain ECAPA-TDNN)
+- 🔊 Local Piper TTS read-aloud — English + German
+- 📄 PDF export; runs fully local in Docker (Ollama Llama 3, FastAPI)
+- 🔒 Privacy-first: zero external requests, ungated models only
+- ✅ ~50 CI runs, all green
+
+🔗 Repository: 
+https://github.com/soheilon21-a11y/live-meeting-legal-companion
+
+🌐 Docs: 
+https://soheilon21-a11y.github.io/live-meeting-legal-companion/
 
 ### 🧠 Post-Meeting Legal Analyzer
 
@@ -113,10 +132,7 @@ LegalTech, or career transitions from Law to Tech.
 ![](https://nirzak-streak-stats.vercel.app/?user=soheilon21-a11y&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soheilon21-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soheilon21-a11y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=soheilon21-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
