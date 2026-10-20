@@ -93,9 +93,7 @@ LegalTech, or career transitions from Law to Tech.
 ### Core Language & Environment
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-343A40?style=for-the-badge)
 
 ### AI / LLM / RAG
 
@@ -104,6 +102,10 @@ LegalTech, or career transitions from Law to Tech.
 ![RAG](https://img.shields.io/badge/RAG-343A40?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-343A40?style=for-the-badge)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-343A40?style=for-the-badge)
+![SpeechBrain](https://img.shields.io/badge/SpeechBrain-343A40?style=for-the-badge)
+![Piper TTS](https://img.shields.io/badge/Piper--TTS-343A40?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-343A40?style=for-the-badge)
 
 ### Data Processing
 
@@ -111,7 +113,6 @@ LegalTech, or career transitions from Law to Tech.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-343A40?style=for-the-badge)
 ![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-343A40?style=for-the-badge)
-![Joblib](https://img.shields.io/badge/Serialization_(Joblib)-343A40?style=for-the-badge)
 
 ### MLOps & Deployment
 
