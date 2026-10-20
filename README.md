@@ -7,7 +7,7 @@ three privacy-first legal AI tools — live meeting companion, post-meeting anal
 
 ## 🚀 My Products
 
-###🎙️ Live Meeting Legal Companion (Niyosh) — NEW
+🎙️ Live Meeting Legal Companion (Niyosh) — NEW
 
 A local-first live meeting companion for legal professionals: real-time chunked transcription (faster-whisper), automatic observations during the meeting, batch speaker diarization (SpeechBrain ECAPA-TDNN), local Piper TTS read-aloud in EN + DE, and PDF export — fully offline in Docker with Ollama (Llama 3). Zero external requests.
 
