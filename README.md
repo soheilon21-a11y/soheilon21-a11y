@@ -1,5 +1,5 @@
 # Hi, I'm Soheil 👋
-I'm a law graduate (LL.B) building privacy-first LegalTech with Python, FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).
+I'm a law graduate (LL.B., Germany) building privacy-first LegalTech with Python, FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).
 
 🔭 Recently shipped:
 
