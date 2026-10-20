@@ -26,7 +26,7 @@ https://github.com/soheilon21-a11y/live-meeting-legal-companion
 🌐 Docs: 
 https://soheilon21-a11y.github.io/live-meeting-legal-companion/
 
-## 🧠 Post-Meeting Legal Analyzer
+### 🧠 Post-Meeting Legal Analyzer
 
 A privacy-first LegalTech application for analyzing post-meeting legal 
 transcripts. Extracts obligations, risks, and action items with verbatim 
